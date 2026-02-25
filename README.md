@@ -1,5 +1,8 @@
 # stephen-riley.github.io
 
-## Stuff here
+## Neural Net Visualization
 
-* Neural Net Visualization: [README](vibe-net/README.md), [demo](vibe-net/neural_net_viz.html)
+Used in [CPSC 5031](https://catalog.seattleu.edu/preview_program.php?catoid=55&poid=11381).
+
+* [README](vibe-net/README.md)
+* [demo](vibe-net/neural_net_viz.html)
