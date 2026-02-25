@@ -1,0 +1,3 @@
+[submodule "vibe-net"]
+	path = vibe-net
+	url = https://github.com/stephen-riley/vibe-net.git
